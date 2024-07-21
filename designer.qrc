@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/WhatsApp Image 2023-06-02 at 21.30.35.jpeg</file>
+    <file>icons/WhatsApp Image 2023-06-02 at 21.30.13.jpeg</file>
+    <file>icons/WhatsApp Image 2023-06-02 at 21.27.29 (1).jpeg</file>
+    <file>icons/land.jpeg</file>
+    <file>icons/23.jpg</file>
+    <file>icons/bmwr.png</file>
+    <file>icons/landroverr.jpeg</file>
+    <file>icons/merr.jpg</file>
+    <file>icons/por.jpg</file>
+  </qresource>
+</RCC>
